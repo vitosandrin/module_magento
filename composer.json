@@ -1,0 +1,11 @@
+{
+    "name": "vito/inventoryapi",
+    "autoload": {
+      "psr-4": {
+        "App\\": "app/"
+      }
+    },
+    "require": {
+    }
+  }
+  
